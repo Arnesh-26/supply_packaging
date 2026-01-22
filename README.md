@@ -101,30 +101,8 @@ Plastic packaging is more suitable for longer distances and high handling risk
 
 Random Forest effectively captures feature interactions
 
-📂 Project Structure
-Packaging-Prediction/
-│
-├── data/
-│   └── supply_chain_data.csv
-│
-├── notebooks/
-│   └── packaging_prediction.ipynb
-│
-├── models/
-│   └── random_forest_model.pkl
-│
-├── README.md
-└── requirements.txt
-
-🛠️ Installation & Usage
-git clone https://github.com/your-username/packaging-prediction.git
-cd packaging-prediction
-pip install -r requirements.txt
 
 
-Run the notebook:
-
-jupyter notebook notebooks/packaging_prediction.ipynb
 
 🌱 Future Enhancements
 
@@ -139,7 +117,3 @@ Deploy using Flask or FastAPI
 🤝 Contribution
 
 Contributions are welcome! Feel free to fork the repository and submit pull requests.
-
-📄 License
-
-This project is licensed under the MIT License.
